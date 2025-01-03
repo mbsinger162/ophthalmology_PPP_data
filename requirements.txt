@@ -43,6 +43,7 @@ typing-extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 zipp==3.20.2
-altair
-streamlit-aggrid
-setuptools
+altair==4.2.2
+streamlit-aggrid==1.0.5
+setuptools>=42
+wheel
