@@ -1,4 +1,4 @@
-altair==5.4.1
+altair==4.2.2
 attrs==24.3.0
 blinker==1.8.2
 cachetools==5.5.0
@@ -45,3 +45,4 @@ typing-extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 zipp==3.20.2
+setuptools
